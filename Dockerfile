@@ -1,4 +1,4 @@
-FROM opensuse/leap:latest
+FROM opensuse/leap:15
 LABEL maintainer="Graham Lillico"
 
 ENV container docker
